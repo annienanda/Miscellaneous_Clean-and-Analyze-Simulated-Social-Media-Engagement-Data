@@ -70,7 +70,7 @@ cd Simulated-Social-Media-Engagement-Analysis<br>
 pip install pandas numpy matplotlib seaborn<br>
 
 3️⃣ Run the Jupyter Notebook<br>
-jupyter notebook social_media_analysis.ipynb<br>
+jupyter notebook SocialMediaDataAnalysis.ipynb<br>
 
 
 
