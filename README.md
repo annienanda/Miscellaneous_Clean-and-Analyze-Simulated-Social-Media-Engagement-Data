@@ -16,7 +16,7 @@ np.random.randint() for likes (0–10,000).<br>
 Removed duplicate entries.<br>
 Converted the Date column to datetime format.<br>
 Ensured Likes column is an integer.<br>
-3️⃣ Exploratory Data Analysis (EDA)v
+3️⃣ Exploratory Data Analysis (EDA)<br>
 ✅ Histogram of Likes – Understand engagement distribution.<br>
 ✅ Boxplot of Likes per Category – Identify high-engagement categories and outliers.<br>
 ✅ Mean Likes per Category – Discover which content types perform best.<br>
@@ -63,8 +63,8 @@ random	Simulating categorical data<br>
 
 1️⃣ Clone this repository<br>
 
-git clone https://github.com/your-username/Simulated-Social-Media-Engagement-Analysis.git<br>
-cd Social-Media-Engagement-Analysis<br>
+git clone https://github.com/anniennanda/Simulated-Social-Media-Engagement-Analysis.git<br>
+cd Simulated-Social-Media-Engagement-Analysis<br>
 
 2️⃣ Install dependencies<br>
 pip install pandas numpy matplotlib seaborn<br>
